@@ -48,7 +48,7 @@ linkedin_username: dionisis-pylarinos-585694283
 # about_title: About Me
 about_profile_image: profile3.jpg
 about_content: | # this will include new lines to allow paragraphs
-  My name is Dionisis, and I was born in 1998. I completed my undergraduate studies in Informatics at Ionian University and a Master’s degree in Digital Systems Security from the University of Piraeus. My native language is Greek, and I am fluent in English, holding the NOCN Level 1 Certificate in ESOL International. I have a strong interest in the field of Cybersecurity, particularly in penetration testing. I am passionate about identifying and analyzing vulnerabilities, assessing potential risks, and developing effective strategies to strengthen system resilience.
+  My name is Dionisis, and I was born in 1998. I completed my undergraduate studies in Informatics at Ionian University and a Master’s degree in Digital Systems Security from the University of Piraeus. My native language is Greek, and I am fluent in English, holding the NOCN Level 1 Certificate in ESOL International.
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -73,7 +73,7 @@ content:
                
                Univeristy of Piraeus: I completed a large coursework related to applied cryptography, Security Assessment and Exploitation of Weaknesses, Network Security, Mobile Internet Security, Digital Forensics and Security on the World Wide Web. Also, in a more theoretical level, I dealt with legislative aspects around security, such as ISO,NIST and GDPR.
                
-               Univeristy of Piraeus: I have completed my master’s thesis, titled “CTF Forensic Challenges”, in which I designed a series of hands-on forensic Capture The Flag challenges. One challenge I particularly enjoyed creating focuses on log analysis of a machine infected with malware — the objective is to analyze logs, reconstruct the attack timeline, and extract indicators of compromise to drive forensic conclusions.
+               Univeristy of Piraeus: I have completed my master’s thesis, titled “CTF Forensic Challenges”, in which I designed a series of hands-on forensic Capture The Flag challenges. 
                
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -88,7 +88,6 @@ content:
         description: | # this will include new lines to allow paragraphs
             I am currently working as a Security Operations Center (SOC) Analyst at KMICRO, a cybersecurity firm based in California. My responsibilities included monitoring SIEM alerts and security telemetry, performing triage and incident validation, conducting log and host-based analysis, and coordinating escalations to incident response teams. I regularly applied threat-hunting techniques to identify suspicious activity, produced actionable incident reports and remediation recommendations.
 
-            In my free time I practice on Hack The Box, currently working on [📘 Active Directory Penetration Tester path](https://academy.hackthebox.com/path/preview/active-directory-penetration-tester){:target="_blank"} 
   - tittle: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
