@@ -48,7 +48,8 @@ linkedin_username: dionisis-pylarinos-585694283
 # about_title: About Me
 about_profile_image: profile3.jpg
 about_content: | # this will include new lines to allow paragraphs
-  My name is Dionisis, and I was born in 1998. I completed my undergraduate studies in Informatics at Ionian University and a Master’s degree in Digital Systems Security from the University of Piraeus. My native language is Greek, and I am fluent in English, holding the NOCN Level 1 Certificate in ESOL International. Ιnterest and enthusiasm with new technologies that are based on AI.
+  My name is Dionisis, and I was born in 1998. I completed my undergraduate studies in Informatics at Ionian University and a Master’s degree in Digital Systems Security from the University of Piraeus. My native language is Greek, and I am fluent in English, holding the NOCN Level 1 Certificate in ESOL International.Ιnterest and enthusiasm with new technologies that are based on AI.
+content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -66,7 +67,7 @@ about_content: | # this will include new lines to allow paragraphs
         quote: >
           The most intrested for me
         description: | # this will include new lines to allow paragraphs
-               Ionian University: I have completed quite a few security themed projects most of them involved achieving basic security attacks. 
+               Ionian University: I have taught various courses related to computer science, as well as a course related to artificial intelligence. Also i have completed quite a few security themed projects most of them involved achieving basic security attacks. 
                
                Ionian University: My thesis was about security with a theoretical background, the title was "Issues and discrepancies in the implementation of information security incident response strategies and the role of the human factor"
                
